@@ -1,0 +1,23 @@
+{
+  "name": "reverse-mac",
+  "version": "1.0.0",
+  "description": "Authenticated API to reverse a list of MAC addresses.",
+  "main": "handler.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonregard/reverse-mac.git"
+  },
+  "author": "Brandon Regard <bregard@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonregard/reverse-mac/issues"
+  },
+  "homepage": "https://github.com/brandonregard/reverse-mac#readme",
+  "devDependencies": {
+    "jest": "^26.5.3",
+    "serverless-offline": "^6.8.0"
+  }
+}
